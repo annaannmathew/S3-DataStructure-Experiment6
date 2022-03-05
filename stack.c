@@ -48,7 +48,7 @@ int main()
         top=push(a,n,top,x);
     }
     dsply(a,top);
-    printf("\nDo you want to remove values?(1 for yes/0 for no)\n");
+    printf("\n To remove values press 1 and if not press 0 \n");
     scanf("%d",&c);
     if(c==1)
     {
